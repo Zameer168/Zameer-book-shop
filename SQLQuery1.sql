@@ -1,0 +1,1 @@
+﻿INSERT INTO Customers([First Name],[Last Name],[Father Name],CNIC,Email,[Ph No],Password,[Confirm Password],Address,[Permanent Address]) VALUES('erh','rty','rty','456','z@gmail.com','456712','122','122','fghj','tyu')
